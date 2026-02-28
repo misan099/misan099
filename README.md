@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=misan099&label=Profile%20views&color=0e75b6&style=flat" alt="misan099" />
 </p>
 
-<!-- Typing animation (green changing text) -->
+<!-- Typing animation (green changing text) - FUTURISTIC + Cybersecurity + Data -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer;Data+Focused+Learner;React+%7C+Node.js+%7C+Python;Always+excited+to+learn+more+about+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=2300&pause=650&color=00FF00&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer+%E2%80%A2+Data+%26+Cybersecurity;React+%7C+Node.js+%7C+Python+%7C+SQL;SOC-Minded+Builder+%E2%80%A2+Network+Analysis+%E2%80%A2+OSINT;Always+learning+AI+%E2%80%A2+Security+%E2%80%A2+Cloud" />
 </p>
 
 <div align="center">
@@ -26,6 +26,7 @@ I’m always curious and **excited to learn more about AI** and new technologies
 ## 🚀 Currently working on
 - **Nasim Airways** — built with **Python**
 - **Lost & Found MNSU** — built with **React** + **Node.js**
+- **Network Analyzer** — focused on **cybersecurity** + **network traffic analysis**
 
 ---
 
