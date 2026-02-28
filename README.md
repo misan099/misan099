@@ -5,7 +5,7 @@
 
 <!-- Typing animation (green changing text) - FUTURISTIC + Cybersecurity + Data -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=2300&pause=650&color=00FF00&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer+%E2%80%A2+Data+%26+Cybersecurity;React+%7C+Node.js+%7C+Python+%7C+SQL;SOC-Minded+Builder+%E2%80%A2+Network+Analysis+%E2%80%A2+OSINT;Always+learning+AI+%E2%80%A2+Security+%E2%80%A2+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=2300&pause=650&color=00FF00&center=true&vCenter=true&width=1100&lines=Software+Developer+%E2%80%A2+Data+%E2%80%A2+Cybersecurity;React+%7C+Node.js+%7C+Python+%7C+SQL;Security+Learner+%E2%80%A2+Network+Analysis+%E2%80%A2+OSINT;Always+building+%E2%80%A2+Always+improving" />
 </p>
 
 <div align="center">
@@ -17,15 +17,14 @@
 ---
 
 ## 👨‍💻 About me
-I’m a **Full Stack Developer** and **Data-focused** learner.  
+I’m a **Software Developer** with interests in **data** and **cybersecurity**.  
 I build projects using **React, Node.js, Python, HTML/CSS, C++**, and **databases**.  
-I’m always curious and **excited to learn more about AI** and new technologies.
+I’m continuously improving my skills and exploring **security concepts** like **network analysis**, **OSINT**, and **secure development**.
 
 ---
 
 ## 🚀 Currently working on
 - **Nasim Airways** — built with **Python**
-- **Lost & Found MNSU** — built with **React** + **Node.js**
 - **Network Analyzer** — focused on **cybersecurity** + **network traffic analysis**
 
 ---
