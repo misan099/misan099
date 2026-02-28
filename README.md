@@ -58,6 +58,18 @@ I’m always curious and **excited to learn more about AI** and new technologies
 ### Database & Tools
 ![Tools](https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode)
 
+### Cybersecurity (Icons)
+![Cybersecurity](https://skillicons.dev/icons?i=kali,linux,bash)
+
+### Cybersecurity Tools (Badges)
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-005571?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
